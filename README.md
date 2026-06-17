@@ -6,7 +6,7 @@
 <img src='misc/logo.png'>
 </div>
 
-This repository hosts teaching materials for the mini course at [OIST](https://groups.oist.jp/grad/event/mini-course-computer-vision-and-machine-learning-scientific-visual-data-analytics-0).
+This repository hosts teaching materials for the [mini course at OIST](https://groups.oist.jp/grad/event/mini-course-computer-vision-and-machine-learning-scientific-visual-data-analytics-0).
 This course introduces computational techniques of Computer Vision and Machine Learning (CV/ML) to scientific visual data analysis. Scientific visual data can be CT scans, microscope imagery, remove sensing imagery, videos captured from camera trap, etc. The course focuses on CV/ML techniques and briefly introduces their applications in palynology, ecology and marine science. 
 Furthermore, the course contains hands-on programming exercises to solidify students’ knowledge and skills learned from this course, covering the above topics. The course will use Google Colab as the programming environment and provide step-by-step configurations. The data used in the course is mainly microscope scans of pollen data but students are encouraged to bring in their own scientific visual data to test algorithms and discuss potential use cases with the instructor.
 
