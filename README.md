@@ -13,7 +13,7 @@ Furthermore, the course contains hands-on programming exercises to solidify stud
 
 ## Syllabus
 The syllabus of this course is as follows.
-![teaser](misc/syllabus.jpg)
+![teaser](misc/syllabus.png)
 
 
 ## Time and Venue
